@@ -1,3 +1,0 @@
-# careerist-git-homework.
-
-Hello
